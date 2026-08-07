@@ -1,57 +1,76 @@
 Hi, I'm Malik Muhammad Muzammil
 
-I'm a BS Software Engineering student at FAST-NUCES, currently building my foundations in software development, programming, object-oriented programming, web development, and problem solving.
+I'm a BS Software Engineering student at **FAST-NUCES** with a strong interest in building reliable software and continuously improving my programming skills.
 
-👨‍💻 About Me
+I use GitHub to document my learning journey, build practical projects, and apply the concepts I learn throughout my degree. My current focus is on writing clean code, strengthening my problem-solving ability, and developing a solid foundation in software engineering.
 
-🎓 BS Software Engineering student at **FAST-NUCES**
-💻 Interested in software development and problem solving
-🧠 Currently strengthening my programming and OOP fundamentals
-🌐 Building projects with C++, HTML, CSS, and JavaScript
-🚀 Learning by turning concepts into practical projects
-📚 Continuously improving my development skills
+Current Focus
 
-🛠️ Technical Skills
+* Data Structures & Algorithms
+* Object-Oriented Programming (C++)
+* Software Engineering
+* Modern Web Development
+* Building practical projects to reinforce concepts
 
-Programming
-C
-C++
+Tech Stack
 
-Web Development
+Languages
 
-HTML
-CSS
-JavaScript
+* C++
+* C
+* JavaScript
 
-Concepts
+Web
 
-Object-Oriented Programming (OOP)
-Programming Fundamentals
-Basic Software Development Concepts
+* HTML
+* CSS
 
-🚀 Projects
+Tools
 
-Some of the projects I've worked on include:
+* Git
+* GitHub
+* Visual Studio Code
 
-C++ Console-Based Quiz Game — A console application built to practice programming fundamentals.
-C++ Chess Game — A chess project focused on object-oriented programming and game logic.
-Student Management System — A C++ project demonstrating programming and OOP concepts.
-Hospital Management System — A C++ project demonstrating programming and OOP concepts.
+Featured Projects
 
-More details and projects are available on my portfolio.
+Portfolio Website
 
-📚 Currently Learning
+A personal portfolio website showcasing my projects, technical skills, and learning journey.
 
-I'm currently focused on strengthening my software engineering fundamentals, improving my problem-solving skills, and building more practical projects as I continue my degree.
+Repository:
+https://github.com/malikk-muzammil/malikk-muzammil.github.io
 
-🏆 Achievement
+Conway's Game of Life
 
-Participation in Coding Competition — Islamia University Bahawalpur
+A C++ implementation of Conway's Game of Life that demonstrates simulation logic, object-oriented design, and algorithmic thinking.
 
-🌐 Connect With Me
+Repository:
+https://github.com/malikk-muzammil/Conways-Game-of-Life
 
-🌎 Portfolio: [malikk-muzammil.github.io](https://malikk-muzammil.github.io/)
-💼 LinkedIn: https://www.linkedin.com/in/muzammil666/
-📧 Email: Available through my portfolio
+Student Management System
 
-Thanks for visiting my profile!
+A console-based C++ application developed to practice object-oriented programming, file handling, and software design principles.
+
+Repository:
+https://github.com/malikk-muzammil/Student-Management-System
+
+Chess Game
+
+A C++ project developed to strengthen object-oriented programming concepts and game logic.
+
+Hospital Management System
+
+A console-based C++ project focused on applying object-oriented programming concepts to a real-world management system.
+
+
+Connect
+
+Portfolio
+[https://malikk-muzammil.github.io/](https://malikk-muzammil.github.io/)
+
+LinkedIn
+[https://www.linkedin.com/in/muzammil666/](https://www.linkedin.com/in/muzammil666/)
+
+--
+
+Thank you for visiting my profile. Feel free to explore my repositories and follow my progress as I continue learning and building software.

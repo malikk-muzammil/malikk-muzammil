@@ -1,5 +1,5 @@
 
-# Hi, I'm Malik Muhammad Muzammil 👋
+# Hi, I'm Malik Muhammad Muzammil 
 
 ### Software Engineering Student | Aspiring Software Developer
 
@@ -7,9 +7,9 @@
 
 💻 Learning to write clean, structured code and build practical software projects.
 
-🌱 Currently focusing on **C++, Data Structures & Algorithms, Object-Oriented Programming, and Web Development**.
+ Currently focusing on **C++, Data Structures & Algorithms, Object-Oriented Programming, and Web Development**.
 
-### 🛠️ Technologies & Tools
+###  Technologies & Tools
 
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
@@ -27,9 +27,6 @@
 - ♟️ [Conway's Game of Life](https://github.com/malikk-muzammil/Conways-Game-of-Life)
 - 🌐 [My Portfolio Website](https://malikk-muzammil.github.io/)
 
-### 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=malikk-muzammil&show_icons=true&hide_border=true)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=malikk-muzammil&layout=compact&hide_border=true)
 
@@ -37,6 +34,3 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muzammil666/)
 
----
-
-⭐ *Always learning. Always building.*

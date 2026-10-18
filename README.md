@@ -1,36 +1,45 @@
 
-# Hi, I'm Malik Muhammad Muzammil 
+# Malik Muhammad Muzammil
 
-### Software Engineering Student | Aspiring Software Developer
+### Software Engineering Student | C++ Programmer
 
-🎓 BS Software Engineering student at **FAST-NUCES**.
+I'm a BS Software Engineering student at **FAST-NUCES**, interested in software development, problem-solving, and writing clean, maintainable code.
 
-💻 Learning to write clean, structured code and build practical software projects.
+Currently focusing on **C++, Data Structures and Algorithms, and Object-Oriented Programming**, while gradually expanding my knowledge of web development and software engineering practices.
 
- Currently focusing on **C++, Data Structures & Algorithms, Object-Oriented Programming, and Web Development**.
+## Technical Skills
 
-###  Technologies & Tools
+**Primary Language**
 
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
 
-### 🚀 Featured Projects
+**Other Technologies**
 
-- 🎮 [C++ Console Quiz Game](https://github.com/malikk-muzammil/cpp-console-quiz-game)
-- 🎓 [Student Management System](https://github.com/malikk-muzammil/Student-Management-System)
-- ♟️ [Conway's Game of Life](https://github.com/malikk-muzammil/Conways-Game-of-Life)
-- 🌐 [My Portfolio Website](https://malikk-muzammil.github.io/)
+![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 
+**Tools**
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=malikk-muzammil&layout=compact&hide_border=true)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
 
-### 🤝 Connect With Me
+## Featured Projects
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muzammil666/)
+- [C++ Console Quiz Game](https://github.com/malikk-muzammil/cpp-console-quiz-game)
+- [Student Management System](https://github.com/malikk-muzammil/Student-Management-System)
+- [Conway's Game of Life](https://github.com/malikk-muzammil/Conways-Game-of-Life)
+- [Portfolio Website](https://malikk-muzammil.github.io/)
 
+## Current Focus
+
+- Strengthening C++ and Object-Oriented Programming fundamentals
+- Learning and implementing Data Structures and Algorithms
+- Improving problem-solving skills
+- Developing practical software projects
+
+## Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muzammil666/)
